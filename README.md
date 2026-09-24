@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsenfayyaz&theme=vue-dark&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mohsenfayyaz&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=mohsenfayyaz&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
 
 [🌐mohsenfayyaz.github.io](https://mohsenfayyaz.github.io/)
 
